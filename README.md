@@ -1,4 +1,4 @@
-# Snip++
+# SNIP Extra
 Experimental Secret Network CosmWasm (SecretWasm) based contracts, packages and protocols
 
 *** Coming Soon ***
